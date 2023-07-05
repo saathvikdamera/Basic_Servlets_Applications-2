@@ -1,0 +1,15 @@
+package com.Damera.advjava;
+
+import java.time.LocalTime;
+
+public class Time {
+
+	public static void main(String[] args) {
+		
+		LocalTime localTime = LocalTime.now();
+		
+		String s = String.valueOf(localTime);
+		System.out.println(s);
+	}
+
+}

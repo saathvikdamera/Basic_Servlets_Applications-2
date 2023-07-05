@@ -1,0 +1,6 @@
+INDEX VERSION 1.132+C:\Users\dell\Documents\19_JFSD\Adv Java\Spring Workspace\.metadata\.plugins\org.eclipse.jdt.core
+1250085141.index
+2163810126.index
+2853133202.index
+1865797976.index
+954997340.index
